@@ -1,6 +1,6 @@
 # ML2017
 
-This repository contains 4 homeworks from the Machine Learning course taught by
+This repository contains 4 homeworks from the machine learning course taught by
 Hung-Yi Lee (李弘毅) at the National Taiwan University, 2017 Spring.
 
 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html

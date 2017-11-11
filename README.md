@@ -12,7 +12,5 @@ Under each HW directory, you find:
 3. my attemps in .R
 4. my outputted answers
 
-It was asked to be in Python/C/C++, but... whatever. :P
-
 Miriam
  

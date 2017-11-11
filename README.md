@@ -9,7 +9,7 @@ Each HW directory contains:
 
 1. the instruction of the homework in .pptx
 2. files to use for the homework
-3. my attemps in .R
+3. my attemps in .R (and hopefully .py soon)
 4. my outputted answers
 
 Miriam

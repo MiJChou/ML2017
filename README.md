@@ -5,7 +5,7 @@ Hung-Yi Lee (李弘毅) at the National Taiwan University, 2017 Spring.
 
 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html
 
-Under each HW directory, you find:
+Each HW directory contains:
 
 1. the instruction of the homework in .pptx
 2. files to use for the homework

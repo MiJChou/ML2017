@@ -1,9 +1,9 @@
-# ML2017
+## ML2017
 
 This repository contains 4 homeworks from the machine learning course taught by
 Hung-Yi Lee (李弘毅) at the National Taiwan University, 2017 Spring.
 
-http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html
+Source: [National Taiwan University](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
 
 Each HW directory contains:
 
@@ -13,4 +13,3 @@ Each HW directory contains:
 4. my outputted answers
 
 Miriam
- 
